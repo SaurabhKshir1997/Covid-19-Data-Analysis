@@ -11,5 +11,7 @@ To understand the current situation occured to the Covid 19 Pandemic in the worl
 
 ## Code Used:
 
+Jupyter Notebook: Covid 19 Data Analysis.ipynb
+
 ## END RESULT:
 An automated dashboard providing quick and latest Covid-19 insights in order to support data driven decision making.
