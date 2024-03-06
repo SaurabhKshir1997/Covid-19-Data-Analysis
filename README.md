@@ -14,5 +14,9 @@ To understand the current situation occured to the Covid 19 Pandemic in the worl
 Jupyter Notebook: Covid 19 Data Analysis.ipynb
 
 
+![Covid 19](https://github.com/SaurabhKshir1997/Covid-19-Data-Analysis/blob/2279bb3e548395512e704d2c9191c68b145ec6c5/Images/Covid%2019%20Data%20analysis_page-0001.jpg)
+![Covid 19](https://github.com/SaurabhKshir1997/Covid-19-Data-Analysis/blob/2279bb3e548395512e704d2c9191c68b145ec6c5/Images/Covid%2019%20Data%20analysis_page-0002.jpg)
+![Covid 19](https://github.com/SaurabhKshir1997/Covid-19-Data-Analysis/blob/2279bb3e548395512e704d2c9191c68b145ec6c5/Images/Covid%2019%20Data%20analysis_page-0003.jpg)
+
 ## END RESULT:
 An automated dashboard providing quick and latest Covid-19 insights in order to support data driven decision making.
